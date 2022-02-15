@@ -8,7 +8,7 @@
 
 ## About this project: 🙌
 > This is a team project, built by us in the Construct Week - Unit 2 at Masai School.
-- **[Website](https://overstock.netlify.app/)**
+- **[Website](https://overstockv2.netlify.app/)**
 
 ---
 
